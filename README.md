@@ -188,23 +188,6 @@ playing soccer professionally. I know I can do it.
 </p>
 
 
-<a href="https://rextester.com/l/python3_online_compiler"><img src="./assets/colored.png"  width="100%" alt="python3_online_compiler"/></a>
-
-
-<p align="center">
-<a href="https://wakatime.com/@Goblin8888"><img src="https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social" alt="wakatime"></a>
-<a href="https://github.com/blue0316?tab=following"><img src="https://img.shields.io/github/stars/blue0316?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars"></a>
-<a href="https://github.com/blue0316?tab=followers"><img src="https://img.shields.io/github/followers/blue0316?&logoColor=red&style=social" alt="GitHub followers"></a>
-</p>
-
-
-<p align="center">
-<a href="https://gist.github.com/blue0316"><img src="https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg" alt="blue0316 :: Visitor's Count" /></a>
-</p>
-
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
-
-
 <!-- # Reach out to me #
 <a href="mailto:greatblueknight@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
 <a href="https://t.me/devbrainy"><img src="./assets/telegram.webp" alt="Telegram" height="50" title="Send message"></a>
